@@ -54,6 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket or GitLab**
 
+[th2forecast: Time Series forecast as a Service: SDK + API](https://github.com/apowerb/th2forecast)
 
 
 ### Updated Packages
